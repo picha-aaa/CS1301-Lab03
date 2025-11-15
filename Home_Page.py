@@ -27,10 +27,10 @@ st.subheader("Picha Jetsadapattarakul")
 st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1.
-2.
-3.
-4.
+1.**Asteroid Risk Meter**: NASA’s NeoWs API to calculates a risk score and interactive risk score chart.\n
+2.\n
+3.\n
+4.\n
 
 """)
 
