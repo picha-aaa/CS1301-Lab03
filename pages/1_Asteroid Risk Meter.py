@@ -110,7 +110,7 @@ def risk_level_text(avg_score):
 
 
 
-st.set_page_config(page_title="Asteroid Risk Meter (Phase 2)", page_icon="☄️")
+st.set_page_config(page_title="Asteroid Risk Meter", page_icon="☄️")
 
 st.title("☄️ Asteroid Risk Meter (Phase 2)")
 st.caption(
