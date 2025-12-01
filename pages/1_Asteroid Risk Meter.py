@@ -112,7 +112,7 @@ def risk_level_text(avg_score):
 
 st.set_page_config(page_title="Asteroid Risk Meter", page_icon="☄️")
 
-st.title("☄️ Asteroid Risk Meter (Phase 2)")
+st.title("☄️ Asteroid Risk Meter")
 st.caption(
     "Uses NASA NeoWs asteroid data, but the risk score calculation might not make sense"
     "and stores the data for use in the Risk Explainer and Q & A Bot pages."
