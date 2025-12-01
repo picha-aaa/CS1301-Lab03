@@ -61,7 +61,7 @@ def call_gemini_chat(asteroid_summary: str, chat_history: str, user_message: str
 
 
 st.set_page_config(page_title="NeoAstroBot – Asteroid Chatbot", page_icon="🛰️")
-st.title("🛰️ NeoAstroBot – Asteroid Chatbot (Phase 4)")
+st.title("🛰️ NeoAstroBot – Asteroid Chatbot")
 st.caption(
     "Chat with a Gemini assistant about near-Earth asteroids "
     "using the NASA NeoWs data loaded on the Asteroid Risk Meter page."
