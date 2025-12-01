@@ -75,7 +75,7 @@ st.set_page_config(
     page_icon="🧠",
 )
 
-st.title("🧠 Asteroid Risk Explainer (Phase 3)")
+st.title("🧠 Asteroid Risk Explainer")
 st.caption(
     "Uses the asteroid data and risk scores loaded on the **Asteroid Risk Meter** page "
     "to generate clear explanations with Gemini."
