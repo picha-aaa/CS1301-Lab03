@@ -23,4 +23,7 @@ data = resp.json()
 
 # print(data["near_earth_objects"]["2025-11-11"][0]['close_approach_data'][0].keys())
 
-print(data["near_earth_objects"]["2025-11-11"][0]['close_approach_data'][0]['miss_distance']['astronomical'])
+# print(data["near_earth_objects"]["2025-11-11"][0]['close_approach_data'][0]['miss_distance']['astronomical'])
+print(resp.raise_for_status())
+
+# print(data["near_earth_objects"]["2025-11-11"][0])
