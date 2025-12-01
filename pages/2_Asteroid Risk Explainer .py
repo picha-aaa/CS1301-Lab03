@@ -71,7 +71,7 @@ def call_gemini(prompt):
 
 
 st.set_page_config(
-    page_title="Asteroid Risk Explainer (Phase 3)",
+    page_title="Asteroid Risk Explainer",
     page_icon="🧠",
 )
 
