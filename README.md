@@ -1,6 +1,6 @@
 # CS1301-Lab03
 
-Demo: https://cs1301-lab03-final-xtuncj5jqz8xyhhwkxevfc.streamlit.app/
+Deployment: https://cs1301-lab03-final-xtuncj5jqz8xyhhwkxevfc.streamlit.app/
 # Asteroid Risk Analysis Web App — NASA NeoWs + Gemini LLM | Python, Streamlit
 
 - Built an interactive Streamlit web app integrating NASA's NeoWs API with Google Gemini LLM to analyze and explain near-Earth asteroid risks.
